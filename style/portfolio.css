@@ -23,6 +23,9 @@ body{
 nav{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    margin: 0 200px;
+
   
     
 }
@@ -48,4 +51,20 @@ nav li {
 nav a{
     text-decoration: none;
     color: #474747;
+}
+
+/*heder releted styl*/
+
+.header{
+    background: #FFF8F3;
+
+}
+.bannar{
+padding: 30px 30px 30px 150px;
+display: flex;
+align-items: center;
+}
+
+.profil-pic{
+    width: 500px;
 }
