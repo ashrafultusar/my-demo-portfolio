@@ -127,3 +127,18 @@ nav a {
     margin: 130px;
 
 }
+
+/*main section */
+
+main{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.div-info{
+    text-align: center;
+}
